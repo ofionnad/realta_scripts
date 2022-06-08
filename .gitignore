@@ -1,0 +1,8 @@
+*.png
+__pycache__/
+*.svg
+*.fil
+*.file
+*.txt
+seek/
+.hope.3.8/
